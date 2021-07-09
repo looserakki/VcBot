@@ -10,3 +10,6 @@
 
 
 # Generate String session from [Here](https://repl.it/@subinps/getStringName)
+
+
+https://railway.app/new/template?template=https://github.com/looserakki/VcBot)
